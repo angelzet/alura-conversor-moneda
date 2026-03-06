@@ -8,8 +8,9 @@ Este es un conversor de moneda del curso Alura Latam
 ## USO DE LA API ExchangeRate-API
 
  . Esta API contiene todos los tipos de moneda actualizados
+ 
  . Su uso es mediante el tipo de moneda con tres caracteres:
-    Ejemplo: USD para dolar estado unidense y MXN para peso mexicano.
+    Ejemplo: USD para dolar estadounidense y MXN para peso mexicano.
 
 ## EL PROYCETO CONTIENE DOS CLASES
 
